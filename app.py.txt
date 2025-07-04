@@ -1,0 +1,4 @@
+import streamlit as st
+
+st.title("Air Quality Visualizer")
+st.write("Welcome to our ISRO Hackathon Project!")
